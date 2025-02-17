@@ -1,4 +1,4 @@
-![mahfuj's Image](https://i.ibb.co.com/W2rgrFm/github-header-image.png)
+![TabEdge Image](https://i.postimg.cc/j29vyctx/Tab-Edge-Logo-03-width-1.png)
 
 
 
@@ -11,16 +11,16 @@ TabEdge is a global digital bank that is building the next generation of cross-b
 
 
 #### Contact Info
-<a href="mailto:mahfujahmad424@gmail.com">
+<a href="mailto:info@tabedge.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://mahfujdev-portfolio.netlify.app/">
+<a href="https://tabedge.com/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/mahfuj-alam-b74313280/">
+ <a href="https://www.linkedin.com/company/tabedge/posts/?feedView=all">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
- <a href="https://web.facebook.com/profile.php?id=100048917382639">
+ <a href="https://www.facebook.com/people/TabEdge/61555053576492/">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>    
 
@@ -45,6 +45,6 @@ TabEdge is a global digital bank that is building the next generation of cross-b
 </a>
 
 
-![Mahfuj Alam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeTabseer&custom_title=Mahfuj-Alam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![TabEdge's Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeTabseer&custom_title=Mahfuj-Alam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
