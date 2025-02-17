@@ -1,4 +1,4 @@
-![TabEdge Image](https://i.postimg.cc/j29vyctx/Tab-Edge-Logo-03-width-1.png)
+![TabEdge Image](https://i.postimg.cc/1Xcw3KX7/tab-Edge-Bg-Image.png)
 
 
 
